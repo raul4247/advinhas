@@ -11,5 +11,10 @@
 - Centralizar texto no meio, e ícones nas laterais;
 
 ### Grid:
+- montar grid 6x5
+- layout do quadradinho;
+
 
 ### Keyboard:
+- layout da tecla;
+- dispor teclas no formato de teclado;
