@@ -10,13 +10,13 @@ function App() {
         <Header />
       </div>
      
-      <div className="h-full flex place-items-center text-center">
-        <div className="grow bg-indigo-500 ">
-          <Grid />
+        <div className="h-full flex place-items-center justify-center">
+          <div className="">
+            <Grid />
+          </div>
         </div>
-      </div>
-     
-      <div className="h-full flex place-items-center justify-center">
+
+      <div className="text-center">
         <div className="align-bottom">
           <Keyboard />
         </div>
