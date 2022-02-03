@@ -9,12 +9,12 @@ function App() {
         <Header />
       </div>
      
-      <div className="h-full flex place-items-center text-center">
-        <div className="grow bg-indigo-500 ">
+      <div className="h-full flex place-items-center justify-center">
+        <div className="">
           <Grid />
         </div>
       </div>
-     
+
       <div className="text-center">
         <div className="align-bottom">
           <h1>Q W E R T Y U I O P</h1>
