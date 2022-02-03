@@ -18,7 +18,7 @@ function App() {
         </div>
       </div>
      
-      <div className="text-center">
+      <div className="text-center cursor-pointer">
         <div className="align-bottom">
           <h1>Q W E R T Y U I O P</h1>
           <h1>A S D F G H J K L</h1>
