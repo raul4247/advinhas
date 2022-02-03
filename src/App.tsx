@@ -1,6 +1,7 @@
 import './App.css';
 import { Header } from './components/Header';
 import { Grid } from './components/Grid';
+import { Keyboard } from './components/Keyboard';
 
 function App() {
   return (
@@ -15,11 +16,9 @@ function App() {
         </div>
       </div>
      
-      <div className="text-center cursor-pointer">
+      <div className="h-full flex place-items-center justify-center">
         <div className="align-bottom">
-          <h1>Q W E R T Y U I O P</h1>
-          <h1>A S D F G H J K L</h1>
-          <h1>Z X C V B N M</h1>
+          <Keyboard />
         </div>
       </div>
     </div>
