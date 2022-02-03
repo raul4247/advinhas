@@ -1,5 +1,6 @@
 import './App.css';
 import { Header } from './components/Header';
+import { Grid } from './components/Grid';
 
 function App() {
   return (
@@ -9,12 +10,8 @@ function App() {
       </div>
      
       <div className="h-full flex place-items-center text-center">
-        <div className="grow">
-          <h1>[] [] [] [] []</h1>
-          <h1>[] [] [] [] []</h1>
-          <h1>[] [] [] [] []</h1>
-          <h1>[] [] [] [] []</h1>
-          <h1>[] [] [] [] []</h1>
+        <div className="grow bg-indigo-500 ">
+          <Grid />
         </div>
       </div>
      
