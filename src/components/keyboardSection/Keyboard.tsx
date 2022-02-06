@@ -1,6 +1,6 @@
-import { Key } from "./keyboard/Key";
-import { Enter } from "./keyboard/Enter";
-import { Backspace } from "./keyboard/Backspace";
+import { Key } from "./Key";
+import { Enter } from "./Enter";
+import { Backspace } from "./Backspace";
 
 export const Keyboard = () => {
     return (

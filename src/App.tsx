@@ -1,11 +1,11 @@
 import './App.css';
 import { Header } from './components/Header';
-import { Grid } from './components/Grid';
-import { Keyboard } from './components/Keyboard';
+import { Grid } from './components/gridSection/Grid';
+import { Keyboard } from './components/keyboardSection/Keyboard';
 
 function App() {
   return (
-    <div className="h-screen flex flex-col bg-black text-white">
+    <div className="h-screen flex flex-col bg-[#212121] text-white">
       <div className="">
         <Header />
       </div>

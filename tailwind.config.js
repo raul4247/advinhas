@@ -4,6 +4,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'kanit': ['Kanit', 'sans-serif'],
+      'lato': ['Lato', 'sans-serif'],
+    }
   },
   plugins: [],
 }
